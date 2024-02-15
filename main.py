@@ -16,8 +16,8 @@ payload = [
 
 headers = {
     "content-type": "application/json",
-    "X-RapidAPI-Key": "e15fc80b6amshfb1da622649a231p107513jsn90c9cd535978",
-    "X-RapidAPI-Host": "chatgpt-api8.p.rapidapi.com"
+    "X-RapidAPI-Key": "# your rapid api key",
+    "X-RapidAPI-Host": "# You rapid api host"
 }
 
 response = requests.post(url, json=payload, headers=headers)

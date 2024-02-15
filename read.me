@@ -1,0 +1,7 @@
+This Project is a simple version of ChatGpt using the RapidApi ChatGpt key:
+To make this your own:
+simply go to your rapidapi dashboard and find this api, then copy your apis keys into the appropriate variables.
+You should then be good, and ready for this to work.
+
+Thank You!
+- Josh
